@@ -19,7 +19,7 @@ def main():
     # Interrupt with static
     output = intro + (static[750:] - 10)
 
-    # Loop the song twice
+    # Loop the song trice
     two_loops = song[:ol*3]
     result.append(two_loops)
 
